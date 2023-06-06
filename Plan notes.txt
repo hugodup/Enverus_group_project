@@ -1,0 +1,19 @@
+Next steps
+	
+	MID TERM
+	- Data Retrieval
+	- Data Wrangling
+	- Explanatory data analysis
+	
+	FINAL
+	- Data Engineering
+		- check multicollinearity + check with VIF + FAMD
+		- encode the categorical variables (OneHotEncoder)
+		- normalize the quantitative data
+	- Data Modelling
+		- split the dataset 20/80 rule
+		- models: MLR, XGBoost, ARIMA/SARIMA, Exponential Smoothing, Random Forest, Neural Net, Prophet (Facebook)
+		- model tuning > hypertunings of parameters
+		- check the measures: R2, RMSE, MAE, f1_score
+	- Interpretation + regenerating the forecast
+	
